@@ -1,4 +1,4 @@
-from flask import Flask, request, request, render_template
+from flask import Flask, request, render_template
 import urllib
 import json
 
